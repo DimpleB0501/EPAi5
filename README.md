@@ -32,8 +32,11 @@ Function to calculate the number of times a function is called.
 
 ### func_counter_variable_dict
 ```
-Input - function, dictonary
+Input - function, dictionary
 Output - passed dictionary variable with the updated counts
 
 ```
-In this function we calculate the number of times a function is called and update the dictonary supplied by the user.
+In this function we calculate the number of times a function is called and update the dictionary supplied by the user.
+
+# Results
+![op](results.png)

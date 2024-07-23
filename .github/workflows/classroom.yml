@@ -18,7 +18,7 @@ jobs:
       uses: classroom-resources/autograding-python-grader@v1
       with:
         timeout: 10
-        max-score: 480
+        max-score: 250
         setup-command: pip install pytest
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
